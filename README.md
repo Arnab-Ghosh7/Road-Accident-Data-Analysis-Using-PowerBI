@@ -67,4 +67,5 @@ The SQL analysis covers several dimensions to provide a holistic view of road sa
     - Alternatively, open the `.pbix` file (if available) in Power BI Desktop to interact with the dashboard.
 
 ---
-*Created by Arnab Ghosh*
+# 👤 Author
+Arnab Ghosh
